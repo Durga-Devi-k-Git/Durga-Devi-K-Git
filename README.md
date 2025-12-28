@@ -37,8 +37,7 @@
 
 ### 📫 Connect with Me
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/durga-devi-b88153356
+🔗 LinkedIn:  https://www.linkedin.com/in/durga-devi-b88153356
 
 ---
 
