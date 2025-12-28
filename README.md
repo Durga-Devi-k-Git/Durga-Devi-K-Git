@@ -30,9 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=durga-devi&show_icons=true&theme=radical)
+### 📊 GitHub Stats ![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=durga-devi&show_icons=true&theme=radical)
 
 ---
 
