@@ -30,10 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats ![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=durga-devi&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 🔗 LinkedIn:  https://www.linkedin.com/in/durga-devi-b88153356
