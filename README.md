@@ -1,10 +1,10 @@
-## Hi, I'm Durga Devi 👋
-💻 Aspiring Software Developer  
-🌱 Actively learning and building real-world applications
+<h2 allign="center"> Hi, I'm Durga Devi 👋
+💻 Aspiring Software Developer  | 🌱 Actively learning and building real-world applications</h2>
 
 ---
 
 ### 👩‍💻 About Me
+
 - Passionate about writing clean and maintainable code  
 - Interested in full-stack and backend development  
 - Enjoy solving problems and improving logical thinking  
@@ -13,6 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,11 +30,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 ![Durga's GitHub stats](https://github-readme-stats.vercel.app/api?username=durga-devi&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
+
 🔗 LinkedIn:  
 https://www.linkedin.com/in/durga-devi-b88153356
 
@@ -41,6 +44,3 @@ https://www.linkedin.com/in/durga-devi-b88153356
 
 ✨ “Learning every day, building step by step."
 
----
-
-✨ “Learning every day, building step by step.”
