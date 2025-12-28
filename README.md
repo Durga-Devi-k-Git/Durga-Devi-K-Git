@@ -1,5 +1,5 @@
-<h2 allign="center"> Hi, I'm Durga Devi 👋
-💻 Aspiring Software Developer  | 🌱 Actively learning and building real-world applications</h2>
+<h2 allign="center"> Hi, I'm Durga Devi 👋</h2>
+<h4>💻 Aspiring Software Developer  | 🌱 Actively learning and building real-world applications</h4>
 
 ---
 
