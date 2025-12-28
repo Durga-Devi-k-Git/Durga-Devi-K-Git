@@ -1,9 +1,10 @@
-<h2 allign="center">            Hi, I'm Durga Devi 👋</h2>
+<h2 allign="center"> Hi, I'm Durga Devi 👋</h2>
 <h4>💻 Aspiring Software Developer  | 🌱 Actively learning and building real-world applications</h4>
 
 ---
 
 ### 👩‍💻 About Me
+
 
 - Passionate about writing clean and maintainable code  
 - Interested in full-stack and backend development  
@@ -12,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack<br/>
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
